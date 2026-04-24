@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "https://esm.run/@google/genai";
 
-const API_KEY = "YOUR_GEMINI_API_KEY_HERE";
+const API_KEY = "AIzaSyBJAmIo66NF0xtle7XrKamfCLMNmyi6EZk";
 const genAI = new GoogleGenerativeAI(API_KEY);
 
 // This tells the AI how to act (Personality)
